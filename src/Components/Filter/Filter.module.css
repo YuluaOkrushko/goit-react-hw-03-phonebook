@@ -1,0 +1,12 @@
+.wrapper {
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+  }
+  .title {
+    color: rgb(139, 69, 19);
+  }
+  .input {
+    text-align: center;
+  }
+  

@@ -1,0 +1,17 @@
+.item {
+    list-style: none;
+    padding: 0 0 20px;
+  }
+  .list {
+    text-align: center;
+  }
+  .button {
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+    height: 30px;
+    width: 110px;
+    background-color: rgb(255, 235, 205);
+    margin: 5px;
+  }
